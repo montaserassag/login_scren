@@ -20,12 +20,11 @@
 * **لغة البرمجة:** Dartز
 ## لقطات الشاشة
 1. <img width="2551" height="1749" alt="لقطة شاشة_21-4-2026_165832_localhost" src="https://github.com/user-attachments/assets/24dc3f79-48cd-410b-b512-858939c1b910" />
-2. <img width="2550" height="1747" alt="لقطة شاشة_21-4-2026_165821_localhost" src="https://github.com/user-attachments/assets/9b1935d1-77ca-4eb8-95db-7d8808ee2196" />
-3. <img width="2566" height="1746" alt="لقطة شاشة_21-4-2026_16586_localhost" src="https://github.com/user-attachments/assets/71459d21-8763-42e3-bf0e-012b1e318d5c" />
-4. <img width="2556" height="1749" alt="لقطة شاشة_21-4-2026_165750_localhost" src="https://github.com/user-attachments/assets/9514a768-e088-4a89-9e63-623a7c26a09f" />
-5. <img width="2566" height="1753" alt="5" src="https://github.com/user-attachments/assets/65e525c2-9100-4df9-898c-2afc0bd59f65" />
-6. <img width="2554" height="1753" alt="6" src="https://github.com/user-attachments/assets/d7188d6e-8713-4ba8-9f56-3e5d752af1fa" />
-7. <img width="2558" height="1759" alt="7" src="https://github.com/user-attachments/assets/1fa6b6af-e737-4c8e-a667-c11edb11b387" />
+2. <img width="2566" height="1746" alt="لقطة شاشة_21-4-2026_16586_localhost" src="https://github.com/user-attachments/assets/71459d21-8763-42e3-bf0e-012b1e318d5c" />
+3. <img width="2556" height="1749" alt="لقطة شاشة_21-4-2026_165750_localhost" src="https://github.com/user-attachments/assets/9514a768-e088-4a89-9e63-623a7c26a09f" />
+4. <img width="2566" height="1753" alt="5" src="https://github.com/user-attachments/assets/65e525c2-9100-4df9-898c-2afc0bd59f65" />
+5. <img width="2554" height="1753" alt="6" src="https://github.com/user-attachments/assets/d7188d6e-8713-4ba8-9f56-3e5d752af1fa" />
+6. <img width="2558" height="1759" alt="7" src="https://github.com/user-attachments/assets/1fa6b6af-e737-4c8e-a667-c11edb11b387" />
 
 
 
